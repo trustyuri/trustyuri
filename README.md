@@ -21,6 +21,9 @@ The following article introduces the trusty URI approach:
 > Extended Semantic Web Conference (ESWC)_. Springer, 2014.
 > http://arxiv.org/abs/1401.5775
 
+Check out the [wiki](https://github.com/trustyuri/trustyuri/wiki) for posting
+your wish-list features, giving feedback, brainstorming, etc.
+
 
 Example
 -------
